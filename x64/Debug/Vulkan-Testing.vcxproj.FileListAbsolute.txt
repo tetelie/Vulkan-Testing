@@ -1,0 +1,2 @@
+C:\Users\elied\source\repos\Vulkan-Testing\x64\Debug\Vulkan-Testing.exe
+C:\Users\elied\source\repos\Vulkan-Testing\x64\Debug\Vulkan-Testing.pdb
