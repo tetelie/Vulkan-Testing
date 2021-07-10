@@ -1,3 +1,2 @@
-﻿  main.cpp
-LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'MSVCRT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+﻿  TriangleApplication.cpp
   Vulkan-Testing.vcxproj -> C:\Users\elied\source\repos\Vulkan-Testing\x64\Debug\Vulkan-Testing.exe
