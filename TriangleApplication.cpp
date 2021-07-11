@@ -84,8 +84,9 @@ private:
     }
 
     void cleanup() {
-        glfwDestroyWindow(window);
+        vkDestroyInstance(instance, nullptr);
 
+        glfwDestroyWindow(window);
         glfwTerminate();
     }
 
